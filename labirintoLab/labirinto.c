@@ -206,3 +206,4 @@ void embaralhar(int * lado) { //Função para embaralhar os valores do vetor "la
 		lado[j] = aux;
 	}
 }
+
